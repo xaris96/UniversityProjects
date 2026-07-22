@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Resource</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Edit Resource</h1>
+        <form action="{{ url_for('update_resource', resource_id=resource.id) }}" method="POST">
+            <div class="form-group">
+                <label for="name">Resource Name:</label>
+                <input type="text" id="name" name="name" value="{{ resource.name }}" required>
+            </div>
+            <div class="form-group">
+                <label for="quantity">Quantity:</label>
+                <input type="number" id="quantity" name="quantity" value="{{ resource.quantity }}" required>
+            </div>
+            <button type="submit">Update Resource</button>
+        </form>
+        <a href="{{ url_for('index') }}">Back to Resource List</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,87 @@
+CREATE TABLE Products (
+    Pcode VARCHAR(30),
+    Name VARCHAR(12),
+    DESCRIPTION VARCHAR(300),
+    Price DECIMAL(10,2),
+    Stock INTEGER,
+    CategoryCode INTEGER FOREIGN KEY REFERENCES Type,
+    PRIMARY KEY (Pcode)
+);
+
+CREATE TABLE Suppliers(
+    Scode VARCHAR(30),
+    VAT INTEGER,
+    Label CHAR,
+    Street VARCHAR(150),
+    Number INTEGER,
+    City VARCHAR(30),
+    Phone INTEGER,
+    PostalCode INTEGER,
+    GeoCode INTEGER FOREIGN KEY REFERENCES Region,
+    PRIMARY KEY (Scode)
+    );
+
+CREATE TABLE Purchases (
+    Tcode VARCHAR(30) PRIMARY KEY,
+    Scode VARCHAR(30) FOREIGN KEY REFERENCES Suppliers,
+    Date DATETIME,
+    Quantity INTEGER,
+    Pcode VARCHAR(30) FOREIGN KEY REFERENCES Product
+);
+
+CREATE TABLE Type (
+    Ccode VARCHAR(30) FOREIGN KEY REFERENCES Customer,
+    Title CHAR(30),
+    Description VARCHAR(30)
+);
+
+CREATE TABLE Customer(
+    CustCode VARCHAR(30) PRIMARY KEY,
+    CusName VARCHAR(30),
+    CusVAT INTEGER,
+    Street VARCHAR(150),
+    Number INTEGER,
+    City VARCHAR(30),
+    PostalCode INTEGER,
+    GeoCode INTEGER FOREIGN KEY REFERENCES Region,
+    CusPhone INTEGER(10)
+);
+
+CREATE TABLE Special_Customers(
+    CreditLimit DECIMAL(10,2),
+    AccBalance DECIMAL(10,2),
+    CustCode VARCHAR(30) FOREIGN KEY REFERENCES Customer
+);
+
+CREATE TABLE Specialpayments(
+    Date DATE,
+    Time DATETIME,
+    Amount DECIMAL (10,2),
+    CustCode VARCHAR(30) FOREIGN KEY REFERENCES Customer
+);
+
+
+CREATE TABLE Region(
+    Gcode VARCHAR(30) PRIMARY KEY,
+    Gname VARCHAR(30),
+    Population INTEGER,
+);
+
+CREATE TABLE Orders(
+    ReferenceCode VARCHAR(30) PRIMARY KEY,
+    OrderDate DATE,
+    Shipping DATE,
+    CustCode VARCHAR(30) FOREIGN KEY REFERENCES Customer
+);
+
+CREATE TABLE OrderDetails(
+    ReferenceCode VARCHAR(30) FOREIGN KEY REFERENCES Orders,
+    Pcode VARCHAR(30) FOREIGN KEY REFERENCES Product,
+    Quantity DECIMAL(10,2)
+);
+
+
+
+
+
+

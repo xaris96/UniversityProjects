@@ -1,0 +1,14 @@
+domain,dimension,indicator,valueStart,valueEnd,ratioStart,ratioEnd,pctStart,pctEnd
+ecological,climate change,co2_ppm,369.765,415.885,28.236,94.121,2823.6,9412.1
+ecological,climate change,erf_wm2,1.784,2.832,78.417,183.232,7841.7,18323.2
+ecological,ocean acidification,omega_a,2.986,2.795,-34.13,-6.449,-3413.0,-644.9
+ecological,chemical pollution,chemicalsMt_Hzd,932.911,1964.173,1454.852,3173.622,145485.2,317362.2
+ecological,nutrient pollution,phosphorusMt,13.821,23.121,122.924,272.918,12292.4,27291.8
+ecological,nutrient pollution,nitrogenMt,133.588,193.156,115.465,211.542,11546.5,21154.2
+ecological,air pollution,interhemAOD,0.08,0.08,-28.571,-28.571,-2857.1,-2857.1
+ecological,freshwater disruption,blueDev,18.233,18.596,78.752,82.313,7875.2,8231.3
+ecological,freshwater disruption,soilDev,15.902,19.253,43.265,73.453,4326.5,7345.3
+ecological,land conversion,forestAreaMKM2,39.183,38.2,54.583,60.737,5458.3,6073.7
+ecological,biodiversity breakdown,extinction1900,100.0,100.0,900.0,900.0,90000.0,90000.0
+ecological,biodiversity breakdown,hanppGtC,14.655,16.965,162.165,203.488,16216.5,20348.8
+ecological,ozone depletion,totalOzone,283.056,283.398,-50.397,-52.846,-5039.7,-5284.6

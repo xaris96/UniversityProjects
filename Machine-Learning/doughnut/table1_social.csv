@@ -1,0 +1,23 @@
+domain,dimension,indicator,valueStart,valueEnd,ratioStart,ratioEnd,pctStart,pctEnd
+social,food,undernourishment,13.113,9.53,13.113,9.53,1311.3,953.0
+social,food,foodInsecurity,22.689,29.118,22.689,29.118,2268.9,2911.8
+social,health,under5death,75.145,42.469,75.145,42.469,7514.5,4246.9
+social,health,UHCindex,79.114,27.907,79.114,27.907,7911.4,2790.7
+social,education,adultLiteracy,23.143,16.218,23.143,16.218,2314.3,1621.8
+social,education,secondarySchool,60.676,37.063,60.676,37.063,6067.6,3706.3
+social,income and work,societalPoverty,84.749,72.502,84.749,72.502,8474.9,7250.2
+social,income and work,youthNEET,24.545,20.998,24.545,20.998,2454.5,2099.8
+social,water,drinkingH2O,39.316,36.651,39.316,36.651,3931.6,3665.1
+social,water,sanitation,66.117,41.558,66.117,41.558,6611.7,4155.8
+social,energy,energyAccess,21.465,8.476,21.465,8.476,2146.5,847.6
+social,energy,energyIndoor,50.224,26.558,50.224,26.558,5022.4,2655.8
+social,connectivity,publicTrans,,52.709,52.709,52.709,5270.9,5270.9
+social,connectivity,internet,92.762,37.0,92.762,37.0,9276.2,3700.0
+social,housing,urbanSlums,39.655,32.155,39.655,32.155,3965.5,3215.5
+social,equality,genderGapIndex,45.535,34.901,45.535,34.901,4553.5,3490.1
+social,equality,racialInequality,,,,,,
+social,social cohesion,socialSupport,20.677,23.666,20.677,23.666,2067.7,2366.6
+social,social cohesion,palma,71.6,64.641,71.6,64.641,7160.0,6464.1
+social,political voice,govRegimes,46.333,70.757,46.333,70.757,4633.3,7075.7
+social,peace and justice,controlCorruption,79.995,74.699,79.995,74.699,7999.5,7469.9
+social,peace and justice,homicideOver5,28.501,20.168,28.501,20.168,2850.1,2016.8

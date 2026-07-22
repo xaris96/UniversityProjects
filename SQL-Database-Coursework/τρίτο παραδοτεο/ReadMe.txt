@@ -1,0 +1,7 @@
+javac -cp "./lib/*;." Deletion.java 
+
+javac -cp "./lib/*;." OrderDetails.java
+
+java -cp "./lib/*;." Deletion
+
+java -cp "./lib/*;." OrderDetails

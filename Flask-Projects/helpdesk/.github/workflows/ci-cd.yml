@@ -1,0 +1,24 @@
+name: CI/CD Pipeline
+
+on: [push, pull_request]  #Ενεργοποίηση σε κάθε αλλαγή
+
+jobs:
+  test-and-lint:
+    runs-on: ubuntu-latest  #Περιβάλλον εκτέλεσης
+    steps:
+    - uses: actions/checkout@v2  #Κατεβάζει τον κώδικα
+    
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9  #Έκδοση Python
+        
+    - name: Install Dependencies
+      run: |
+        pip install -r requirements.txt  #Εγκατάσταση βιβλιοθηκών
+        
+    - name: Lint with pylint
+      run: pylint app.py  #Έλεγχος ποιότητας κώδικα
+    
+    - name: Run Tests
+      run: pytest test_app.py -v  #Εκτέλεση unit tests

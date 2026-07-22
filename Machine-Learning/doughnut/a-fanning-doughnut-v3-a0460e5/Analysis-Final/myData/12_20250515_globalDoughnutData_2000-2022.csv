@@ -1,0 +1,806 @@
+domain,dimension,type,group,grpCode,indicator,indCode,unit,date,value,boundary,shortfallOvershoot_pct
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2000,368.96,350,27.1
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2001,370.57,350,29.4
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2002,372.58,350,32.3
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2003,375.14,350,35.9
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2004,376.95,350,38.5
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2005,378.98,350,41.4
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2006,381.15,350,44.5
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2007,382.9,350,47
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2008,385.02,350,50
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2009,386.5,350,52.1
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2010,388.76,350,55.4
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2011,390.63,350,58
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2012,392.65,350,60.9
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2013,395.4,350,64.9
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2014,397.34,350,67.6
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2015,399.65,350,70.9
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2016,403.07,350,75.8
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2017,405.22,350,78.9
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2018,407.61,350,82.3
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2019,410.07,350,85.8
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2020,412.44,350,89.2
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2021,414.7,350,92.4
+ecological,climate change,global doughnut,World,WLD,co2_ppm,CC1,ppm CO2,2022,417.07,350,95.8
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2000,1.77,1,76.8
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2001,1.8,1,80
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2002,1.77,1,77
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2003,1.78,1,78.2
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2004,1.82,1,82.1
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2005,1.82,1,81.8
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2006,1.84,1,83.6
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2007,1.91,1,90.7
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2008,1.99,1,98.9
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2009,2.08,1,108
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2010,2.13,1,112.5
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2011,2.17,1,117.1
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2012,2.19,1,119.3
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2013,2.31,1,130.6
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2014,2.35,1,134.6
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2015,2.41,1,140.8
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2016,2.54,1,154.2
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2017,2.58,1,158.4
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2018,2.65,1,165
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2019,2.65,1,164.7
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2020,2.79,1,179.4
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2021,2.75,1,175
+ecological,climate change,global doughnut,World,WLD,erf_wm2,CC2,Watt per m2,2022,2.91,1,191.5
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2000,2.99,2.75,-34.2
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2001,2.98,2.75,-34.1
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2002,2.97,2.75,-31.9
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2003,2.98,2.75,-32.8
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2004,2.96,2.75,-30.7
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2005,2.95,2.75,-29.1
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2006,2.94,2.75,-27
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2007,2.92,2.75,-24.2
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2008,2.91,2.75,-23.6
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2009,2.92,2.75,-24.2
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2010,2.91,2.75,-22.8
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2011,2.88,2.75,-19
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2012,2.88,2.75,-18.8
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2013,2.88,2.75,-19.1
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2014,2.88,2.75,-19.1
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2015,2.88,2.75,-18.7
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2016,2.86,2.75,-15.8
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2017,2.84,2.75,-13.2
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2018,2.83,2.75,-11
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2019,2.83,2.75,-11.4
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2020,2.82,2.75,-10.3
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2021,2.8,2.75,-7.7
+ecological,ocean acidification,global doughnut,World,WLD,omega_a,OA1,omega aragonite,2022,2.79,2.75,-5.2
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2000,908.36,60,1413.9
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2001,957.47,60,1495.8
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2002,1006.57,60,1577.6
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2003,1055.68,60,1659.5
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2004,1104.79,60,1741.3
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2005,1153.9,60,1823.2
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2006,1203,60,1905
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2007,1252.11,60,1986.9
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2008,1301.22,60,2068.7
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2009,1350.33,60,2150.5
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2010,1399.43,60,2232.4
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2011,1448.54,60,2314.2
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2012,1497.65,60,2396.1
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2013,1546.76,60,2477.9
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2014,1595.87,60,2559.8
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2015,1644.97,60,2641.6
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2016,1694.08,60,2723.5
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2017,1743.19,60,2805.3
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2018,1792.3,60,2887.2
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2019,1841.4,60,2969
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2020,1890.51,60,3050.9
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2021,1939.62,60,3132.7
+ecological,chemical pollution,global doughnut,World,WLD,chemicalsMt_Hzd,CP1,million tonnes,2022,1988.73,60,3214.5
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2000,13.55,6.2,118.5
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2001,14.09,6.2,127.3
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2002,14.64,6.2,136.1
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2003,15.18,6.2,144.9
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2004,15.73,6.2,153.6
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2005,16.27,6.2,162.4
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2006,16.69,6.2,169.2
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2007,17.11,6.2,176
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2008,17.53,6.2,182.8
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2009,17.96,6.2,189.6
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2010,18.38,6.2,196.4
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2011,18.77,6.2,202.8
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2012,19.17,6.2,209.2
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2013,19.56,6.2,215.5
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2014,19.96,6.2,221.9
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2015,20.35,6.2,228.3
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2016,20.88,6.2,236.7
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2017,21.4,6.2,245.1
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2018,21.92,6.2,253.6
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2019,22.44,6.2,262
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2020,22.97,6.2,270.4
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2021,23.07,6.2,272.1
+ecological,nutrient pollution,global doughnut,World,WLD,phosphorusMt,NP1,million tonnes P,2022,23.17,6.2,273.7
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2000,132.24,62,113.3
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2001,134.93,62,117.6
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2002,137.62,62,122
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2003,140.31,62,126.3
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2004,143,62,130.7
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2005,145.7,62,135
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2006,148.6,62,139.7
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2007,151.51,62,144.4
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2008,154.42,62,149.1
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2009,157.33,62,153.8
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2010,160.24,62,158.5
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2011,163.25,62,163.3
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2012,166.25,62,168.1
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2013,169.25,62,173
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2014,172.26,62,177.8
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2015,175.26,62,182.7
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2016,178.13,62,187.3
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2017,181,62,191.9
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2018,183.87,62,196.6
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2019,186.74,62,201.2
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2020,189.61,62,205.8
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2021,191.97,62,209.6
+ecological,nutrient pollution,global doughnut,World,WLD,nitrogenMt,NP2,million tonnes N,2022,194.34,62,213.4
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2000,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2001,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2002,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2003,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2004,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2005,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2006,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2007,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2008,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2009,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2010,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2011,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2012,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2013,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2014,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2015,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2016,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2017,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2018,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2019,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2020,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2021,0.08,0.1,-28.6
+ecological,air pollution,global doughnut,World,WLD,interhemAOD,AP1,interhemispheric AOD,2022,0.08,0.1,-28.6
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2000,17.83,10.2,74.8
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2001,18.64,10.2,82.7
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2002,19,10.2,86.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2003,17.69,10.2,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2004,16.96,10.2,66.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2005,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2006,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2007,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2008,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2009,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2010,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2011,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2012,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2013,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2014,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2015,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2016,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2017,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2018,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2019,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2020,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2021,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,blueDev,FD1,percent,2022,18.6,10.2,82.3
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2000,15.43,11.1,39
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2001,16.37,11.1,47.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2002,15.84,11.1,42.7
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2003,16.02,11.1,44.3
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2004,16.01,11.1,44.3
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2005,17.35,11.1,56.4
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2006,16.83,11.1,51.6
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2007,17.02,11.1,53.3
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2008,18.44,11.1,66.1
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2009,18.96,11.1,70.8
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2010,18.68,11.1,68.3
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2011,18.21,11.1,64.1
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2012,17.81,11.1,60.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2013,19.74,11.1,77.8
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2014,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2015,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2016,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2017,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2018,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2019,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2020,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2021,19.25,11.1,73.5
+ecological,freshwater disruption,global doughnut,World,WLD,soilDev,FD2,percent,2022,19.25,11.1,73.5
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2000,39.21,47.9,54.4
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2001,39.16,47.9,54.7
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2002,39.11,47.9,55
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2003,39.06,47.9,55.3
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2004,39.01,47.9,55.7
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2005,38.96,47.9,56
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2006,38.91,47.9,56.3
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2007,38.87,47.9,56.6
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2008,38.82,47.9,56.9
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2009,38.77,47.9,57.2
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2010,38.72,47.9,57.5
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2011,38.68,47.9,57.7
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2012,38.64,47.9,58
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2013,38.59,47.9,58.3
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2014,38.55,47.9,58.5
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2015,38.51,47.9,58.8
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2016,38.46,47.9,59.1
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2017,38.41,47.9,59.4
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2018,38.37,47.9,59.7
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2019,38.32,47.9,60
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2020,38.27,47.9,60.3
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2021,38.22,47.9,60.6
+ecological,land conversion,global doughnut,World,WLD,forestAreaMKM2,LC1,million km2,2022,38.18,47.9,60.9
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2000,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2001,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2002,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2003,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2004,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2005,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2006,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2007,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2008,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2009,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2010,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2011,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2012,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2013,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2014,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2015,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2016,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2017,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2018,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2019,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2020,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2021,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,extinction1900,BB1,extinctions per million species-years,2022,100,10,900
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2000,14.6,5.59,161.2
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2001,14.71,5.59,163.1
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2002,14.82,5.59,165.1
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2003,14.93,5.59,167.1
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2004,15.04,5.59,169.1
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2005,15.15,5.59,171
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2006,15.26,5.59,173
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2007,15.37,5.59,175
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2008,15.48,5.59,176.9
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2009,15.59,5.59,178.9
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2010,15.7,5.59,180.9
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2011,15.81,5.59,182.8
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2012,15.92,5.59,184.8
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2013,16.03,5.59,186.8
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2014,16.14,5.59,188.7
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2015,16.25,5.59,190.7
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2016,16.36,5.59,192.7
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2017,16.47,5.59,194.6
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2018,16.58,5.59,196.6
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2019,16.69,5.59,198.6
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2020,16.8,5.59,200.5
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2021,16.91,5.59,202.5
+ecological,biodiversity breakdown,global doughnut,World,WLD,hanppGtC,BB2,billion tonnes C,2022,17.02,5.59,204.5
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2000,284.3,276,-59.3
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2001,284.85,276,-63.2
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2002,280.42,276,-31.6
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2003,286.18,276,-72.7
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2004,279.53,276,-25.2
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2005,284.92,276,-63.7
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2006,278.98,276,-21.3
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2007,285.8,276,-70
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2008,280.11,276,-29.3
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2009,284.04,276,-57.4
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2010,285.67,276,-69.1
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2011,285.41,276,-67.2
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2012,285.38,276,-67
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2013,279.7,276,-26.4
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2014,285.52,276,-68
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2015,285.37,276,-66.9
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2016,279.18,276,-22.7
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2017,283.75,276,-55.3
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2018,286.32,276,-73.7
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2019,279.56,276,-25.4
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2020,281.96,276,-42.6
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2021,284.58,276,-61.3
+ecological,ozone depletion,global doughnut,World,WLD,totalOzone,OD1,Dobson units,2022,284.58,276,-61.3
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2000,13.09,0,13.1
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2001,13.14,0,13.1
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2002,13.18,0,13.2
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2003,13.12,0,13.1
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2004,12.79,0,12.8
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2005,12.24,0,12.2
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2006,11.36,0,11.4
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2007,10.44,0,10.4
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2008,9.78,0,9.8
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2009,9.29,0,9.3
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2010,8.93,0,8.9
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2011,8.65,0,8.7
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2012,8.42,0,8.4
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2013,8.19,0,8.2
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2014,8.12,0,8.1
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2015,8.1,0,8.1
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2016,8.03,0,8
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2017,7.89,0,7.9
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2018,7.88,0,7.9
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2019,8.33,0,8.3
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2020,8.91,0,8.9
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2021,9.44,0,9.4
+social,food,global doughnut,World,WLD,undernourishment,NU1,percent,2022,9.62,0,9.6
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2000,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2001,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2002,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2003,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2004,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2005,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2006,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2007,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2008,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2009,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2010,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2011,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2012,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2013,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2014,NA,0,NA
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2015,22.24,0,22.2
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2016,23.14,0,23.1
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2017,23.78,0,23.8
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2018,24.02,0,24
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2019,25.34,0,25.3
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2020,27.07,0,27.1
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2021,28.87,0,28.9
+social,food,global doughnut,World,WLD,foodInsecurity,NU2,percent,2022,29.36,0,29.4
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2000,75.4,0,75.4
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2001,74.89,0,74.9
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2002,75.03,0,75
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2003,73.27,0,73.3
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2004,73.44,0,73.4
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2005,50.09,0,50.1
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2006,46.51,0,46.5
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2007,46.68,0,46.7
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2008,46.76,0,46.8
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2009,46.94,0,46.9
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2010,47.09,0,47.1
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2011,47.33,0,47.3
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2012,47.84,0,47.8
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2013,47.59,0,47.6
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2014,46.05,0,46
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2015,46.27,0,46.3
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2016,45.83,0,45.8
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2017,46.07,0,46.1
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2018,42.83,0,42.8
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2019,42.9,0,42.9
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2020,42.94,0,42.9
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2021,42.32,0,42.3
+social,health,global doughnut,World,WLD,under5death,HE1,percent,2022,42.62,0,42.6
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2000,79.05,0,79.1
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2001,79.18,0,79.2
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2002,79.11,0,79.1
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2003,77.89,0,77.9
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2004,74.45,0,74.5
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2005,73.89,0,73.9
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2006,72.05,0,72
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2007,51.47,0,51.5
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2008,48.78,0,48.8
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2009,46.82,0,46.8
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2010,47.04,0,47
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2011,45.8,0,45.8
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2012,45.45,0,45.4
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2013,44.56,0,44.6
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2014,44.73,0,44.7
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2015,43.88,0,43.9
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2016,44.35,0,44.3
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2017,24.96,0,25
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2018,25.44,0,25.4
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2019,24.78,0,24.8
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2020,27.2,0,27.2
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2021,27.75,0,27.7
+social,health,global doughnut,World,WLD,UHCindex,HE2,percent,2022,28.07,0,28.1
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2000,23.13,0,23.1
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2001,23.15,0,23.2
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2002,23.08,0,23.1
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2003,22.96,0,23
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2004,22.7,0,22.7
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2005,22.45,0,22.4
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2006,21.98,0,22
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2007,21.84,0,21.8
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2008,21.43,0,21.4
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2009,20.86,0,20.9
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2010,20.28,0,20.3
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2011,19.71,0,19.7
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2012,19.33,0,19.3
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2013,19.04,0,19
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2014,18.65,0,18.6
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2015,18.29,0,18.3
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2016,17.82,0,17.8
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2017,17.4,0,17.4
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2018,17.05,0,17
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2019,16.63,0,16.6
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2020,16.39,0,16.4
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2021,16.29,0,16.3
+social,education,global doughnut,World,WLD,adultLiteracy,ED1,percent,2022,16.15,0,16.2
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2000,60.87,0,60.9
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2001,60.48,0,60.5
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2002,59.97,0,60
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2003,59.61,0,59.6
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2004,59.1,0,59.1
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2005,58.58,0,58.6
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2006,57.53,0,57.5
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2007,56.71,0,56.7
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2008,54.9,0,54.9
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2009,53.53,0,53.5
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2010,52.32,0,52.3
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2011,49.97,0,50
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2012,48.31,0,48.3
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2013,46.62,0,46.6
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2014,45.29,0,45.3
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2015,43.26,0,43.3
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2016,43.37,0,43.4
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2017,40.57,0,40.6
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2018,38.7,0,38.7
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2019,38.04,0,38
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2020,37.46,0,37.5
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2021,37.22,0,37.2
+social,education,global doughnut,World,WLD,secondarySchool,ED2,percent,2022,36.91,0,36.9
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2000,84.92,0,84.9
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2001,84.58,0,84.6
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2002,84.22,0,84.2
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2003,83.88,0,83.9
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2004,83.3,0,83.3
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2005,82.84,0,82.8
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2006,82.21,0,82.2
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2007,81.47,0,81.5
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2008,80.82,0,80.8
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2009,80.42,0,80.4
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2010,79.82,0,79.8
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2011,79.32,0,79.3
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2012,78.59,0,78.6
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2013,77.71,0,77.7
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2014,77.03,0,77
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2015,76.41,0,76.4
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2016,75.64,0,75.6
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2017,74.71,0,74.7
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2018,73.96,0,74
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2019,73.44,0,73.4
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2020,74.03,0,74
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2021,72.49,0,72.5
+social,income and work,global doughnut,World,WLD,societalPoverty,IW1,percent,2022,72.51,0,72.5
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2000,NA,0,NA
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2001,NA,0,NA
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2002,NA,0,NA
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2003,NA,0,NA
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2004,NA,0,NA
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2005,24.97,0,25
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2006,24.12,0,24.1
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2007,23.54,0,23.5
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2008,22.99,0,23
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2009,22.88,0,22.9
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2010,22.47,0,22.5
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2011,21.95,0,22
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2012,21.83,0,21.8
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2013,21.68,0,21.7
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2014,21.74,0,21.7
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2015,21.91,0,21.9
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2016,22.38,0,22.4
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2017,22.37,0,22.4
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2018,22.41,0,22.4
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2019,22.55,0,22.6
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2020,23.15,0,23.2
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2021,21.69,0,21.7
+social,income and work,global doughnut,World,WLD,youthNEET,IW2,percent,2022,20.31,0,20.3
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2000,39.31,0,39.3
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2001,39.32,0,39.3
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2002,39.29,0,39.3
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2003,39.26,0,39.3
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2004,39.16,0,39.2
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2005,39.04,0,39
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2006,38.92,0,38.9
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2007,38.77,0,38.8
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2008,38.6,0,38.6
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2009,38.42,0,38.4
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2010,38.23,0,38.2
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2011,38.05,0,38
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2012,37.83,0,37.8
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2013,37.65,0,37.6
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2014,37.48,0,37.5
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2015,37.3,0,37.3
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2016,37.15,0,37.1
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2017,37.01,0,37
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2018,36.87,0,36.9
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2019,36.76,0,36.8
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2020,36.7,0,36.7
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2021,36.66,0,36.7
+social,water,global doughnut,World,WLD,drinkingH2O,WA1,percent,2022,36.64,0,36.6
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2000,66.31,0,66.3
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2001,65.92,0,65.9
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2002,65.42,0,65.4
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2003,64.57,0,64.6
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2004,63.44,0,63.4
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2005,62.33,0,62.3
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2006,61.18,0,61.2
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2007,59.97,0,60
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2008,58.73,0,58.7
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2009,57.46,0,57.5
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2010,56.17,0,56.2
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2011,54.86,0,54.9
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2012,53.52,0,53.5
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2013,52.15,0,52.2
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2014,50.75,0,50.8
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2015,49.33,0,49.3
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2016,47.9,0,47.9
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2017,46.48,0,46.5
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2018,45.07,0,45.1
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2019,43.67,0,43.7
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2020,42.78,0,42.8
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2021,41.95,0,41.9
+social,water,global doughnut,World,WLD,sanitation,WA2,percent,2022,41.17,0,41.2
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2000,21.71,0,21.7
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2001,21.22,0,21.2
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2002,20.83,0,20.8
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2003,19.97,0,20
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2004,19.98,0,20
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2005,19.23,0,19.2
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2006,18.58,0,18.6
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2007,17.81,0,17.8
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2008,17.21,0,17.2
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2009,16.8,0,16.8
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2010,16.22,0,16.2
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2011,15.17,0,15.2
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2012,14.75,0,14.7
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2013,13.99,0,14
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2014,13.51,0,13.5
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2015,12.79,0,12.8
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2016,11.63,0,11.6
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2017,10.81,0,10.8
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2018,9.94,0,9.9
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2019,9.64,0,9.6
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2020,9.37,0,9.4
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2021,8.44,0,8.4
+social,energy,global doughnut,World,WLD,energyAccess,EN1,percent,2022,8.51,0,8.5
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2000,50.49,0,50.5
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2001,49.96,0,50
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2002,49.34,0,49.3
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2003,48.74,0,48.7
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2004,48.03,0,48
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2005,47.42,0,47.4
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2006,46.59,0,46.6
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2007,45.7,0,45.7
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2008,44.73,0,44.7
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2009,43.65,0,43.6
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2010,42.53,0,42.5
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2011,41.32,0,41.3
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2012,40.07,0,40.1
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2013,38.66,0,38.7
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2014,37.32,0,37.3
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2015,35.92,0,35.9
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2016,34.4,0,34.4
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2017,32.94,0,32.9
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2018,31.38,0,31.4
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2019,29.94,0,29.9
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2020,28.5,0,28.5
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2021,27.2,0,27.2
+social,energy,global doughnut,World,WLD,energyIndoor,EN2,percent,2022,25.92,0,25.9
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2000,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2001,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2002,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2003,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2004,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2005,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2006,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2007,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2008,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2009,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2010,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2011,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2012,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2013,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2014,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2015,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2016,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2017,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2018,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2019,NA,0,NA
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2020,52.71,0,52.7
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2021,52.71,0,52.7
+social,connectivity,global doughnut,World,WLD,publicTrans,CO1,percent,2022,52.71,0,52.7
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2000,93.52,0,93.5
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2001,92,0,92
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2002,89.42,0,89.4
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2003,87.77,0,87.8
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2004,85.89,0,85.9
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2005,84.44,0,84.4
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2006,82.78,0,82.8
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2007,79.73,0,79.7
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2008,77.19,0,77.2
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2009,74.65,0,74.6
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2010,71.46,0,71.5
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2011,69,0,69
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2012,66.51,0,66.5
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2013,64.52,0,64.5
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2014,62.34,0,62.3
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2015,59.95,0,59.9
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2016,56.92,0,56.9
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2017,54.58,0,54.6
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2018,51.55,0,51.5
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2019,46.91,0,46.9
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2020,40.82,0,40.8
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2021,38.18,0,38.2
+social,connectivity,global doughnut,World,WLD,internet,CO2,percent,2022,35.82,0,35.8
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2000,39.71,0,39.7
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2001,39.6,0,39.6
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2002,39.49,0,39.5
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2003,39.06,0,39.1
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2004,38.63,0,38.6
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2005,38.19,0,38.2
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2006,37.75,0,37.7
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2007,37.25,0,37.3
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2008,36.86,0,36.9
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2009,36.37,0,36.4
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2010,35.87,0,35.9
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2011,35.37,0,35.4
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2012,34.86,0,34.9
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2013,34.42,0,34.4
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2014,33.97,0,34
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2015,33.58,0,33.6
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2016,33.18,0,33.2
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2017,32.92,0,32.9
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2018,32.65,0,32.7
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2019,32.53,0,32.5
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2020,32.42,0,32.4
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2021,32.24,0,32.2
+social,housing,global doughnut,World,WLD,urbanSlums,HO1,percent,2022,32.07,0,32.1
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2000,45.69,0,45.7
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2001,45.38,0,45.4
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2002,45.15,0,45.2
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2003,44.37,0,44.4
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2004,44.1,0,44.1
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2005,43.47,0,43.5
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2006,42.83,0,42.8
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2007,42.2,0,42.2
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2008,42.28,0,42.3
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2009,41.56,0,41.6
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2010,40.83,0,40.8
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2011,40.59,0,40.6
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2012,40.1,0,40.1
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2013,39.47,0,39.5
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2014,39.02,0,39
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2015,38.1,0,38.1
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2016,37.42,0,37.4
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2017,37.04,0,37
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2018,36.38,0,36.4
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2019,35.62,0,35.6
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2020,35.22,0,35.2
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2021,35.08,0,35.1
+social,equality,global doughnut,World,WLD,genderInequalityIndex,EQ1,0-100 scale,2022,34.72,0,34.7
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2000,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2001,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2002,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2003,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2004,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2005,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2006,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2007,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2008,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2009,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2010,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2011,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2012,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2013,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2014,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2015,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2016,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2017,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2018,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2019,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2020,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2021,NA,NA,NA
+social,equality,global doughnut,World,WLD,racialInequality,EQ2,Not available,2022,NA,NA,NA
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2000,NA,0,NA
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2001,NA,0,NA
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2002,NA,0,NA
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2003,NA,0,NA
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2004,NA,0,NA
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2005,20.47,0,20.5
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2006,20.89,0,20.9
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2007,23.91,0,23.9
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2008,24.2,0,24.2
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2009,22.28,0,22.3
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2010,23.01,0,23
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2011,24.01,0,24
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2012,25.17,0,25.2
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2013,24.93,0,24.9
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2014,22.41,0,22.4
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2015,23.22,0,23.2
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2016,23.62,0,23.6
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2017,23.41,0,23.4
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2018,22.36,0,22.4
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2019,23.42,0,23.4
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2020,23.48,0,23.5
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2021,24.32,0,24.3
+social,social cohesion,global doughnut,World,WLD,socialSupport,SC1,percent,2022,23.01,0,23
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2000,71.33,0,71.3
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2001,71.87,0,71.9
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2002,69.7,0,69.7
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2003,69.45,0,69.4
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2004,67.63,0,67.6
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2005,68.15,0,68.1
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2006,67.84,0,67.8
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2007,72.38,0,72.4
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2008,68.68,0,68.7
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2009,67.66,0,67.7
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2010,67.75,0,67.7
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2011,70.15,0,70.2
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2012,69.94,0,69.9
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2013,69.81,0,69.8
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2014,68.33,0,68.3
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2015,69.27,0,69.3
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2016,65.83,0,65.8
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2017,65.89,0,65.9
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2018,65.93,0,65.9
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2019,66.02,0,66
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2020,68.92,0,68.9
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2021,64.61,0,64.6
+social,social cohesion,global doughnut,World,WLD,palma,SC2,percent,2022,64.67,0,64.7
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2000,46.64,0,46.6
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2001,46.03,0,46
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2002,48.54,0,48.5
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2003,47.84,0,47.8
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2004,49.1,0,49.1
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2005,49.45,0,49.5
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2006,49.59,0,49.6
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2007,50.46,0,50.5
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2008,50.34,0,50.3
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2009,50.69,0,50.7
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2010,49.77,0,49.8
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2011,49.63,0,49.6
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2012,47.87,0,47.9
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2013,48.39,0,48.4
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2014,48.01,0,48
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2015,48.04,0,48
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2016,47.51,0,47.5
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2017,66.1,0,66.1
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2018,67.88,0,67.9
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2019,67.9,0,67.9
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2020,67.72,0,67.7
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2021,70.75,0,70.7
+social,political voice,global doughnut,World,WLD,govRegimes,PV1,percent,2022,70.76,0,70.8
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2000,NA,0,NA
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2001,NA,0,NA
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2002,NA,0,NA
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2003,NA,0,NA
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2004,NA,0,NA
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2005,79.94,0,79.9
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2006,80.05,0,80.1
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2007,81.43,0,81.4
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2008,82.59,0,82.6
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2009,82.16,0,82.2
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2010,80.51,0,80.5
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2011,80.9,0,80.9
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2012,79.09,0,79.1
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2013,79.29,0,79.3
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2014,77.9,0,77.9
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2015,76.77,0,76.8
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2016,77.15,0,77.1
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2017,75.4,0,75.4
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2018,77.05,0,77.1
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2019,74.57,0,74.6
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2020,75.7,0,75.7
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2021,74.62,0,74.6
+social,peace and justice,global doughnut,World,WLD,controlCorruption,PJ1,percent,2022,74.78,0,74.8
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2000,28.45,0,28.5
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2001,28.55,0,28.5
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2002,28.64,0,28.6
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2003,28.57,0,28.6
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2004,28.53,0,28.5
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2005,28.62,0,28.6
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2006,28.14,0,28.1
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2007,29.37,0,29.4
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2008,27.97,0,28
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2009,22.14,0,22.1
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2010,21.57,0,21.6
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2011,21.27,0,21.3
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2012,22.82,0,22.8
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2013,22.85,0,22.9
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2014,22.88,0,22.9
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2015,18.66,0,18.7
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2016,24.01,0,24
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2017,24.82,0,24.8
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2018,16.81,0,16.8
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2019,15.36,0,15.4
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2020,20.53,0,20.5
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2021,20.81,0,20.8
+social,peace and justice,global doughnut,World,WLD,homicideOver5,PJ2,percent,2022,19.52,0,19.5

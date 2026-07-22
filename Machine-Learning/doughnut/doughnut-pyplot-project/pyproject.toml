@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "doughnut-pyplot-project"
+version = "0.1.0"
+description = "A project for plotting doughnut charts using Matplotlib's pyplot."
+authors = ["Portfolio Author"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+matplotlib = "^3.4"
+pandas = "^1.3"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
