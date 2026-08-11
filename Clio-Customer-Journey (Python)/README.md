@@ -1,21 +1,52 @@
-# Clio
+# Clio — Audio Tour Customer Journey & Behavior Analysis
 
-Customer journey analysis project for tour/activity behavior segmentation.
+Αυτό το project εστιάζει στην ανάλυση δεδομένων (Event Logs) από την εφαρμογή ακουστικών ξεναγήσεων **Clio** για την περίοδο **Ιουλίου – Οκτωβρίου 2025**. Στόχος της εργασίας είναι η χαρτογράφηση της διαδρομής του χρήστη (Customer Journey), η κατανόηση του βάθους αλληλεπίδρασης με το ηχητικό περιεχόμενο και η εξαγωγή επιχειρηματικών συμπερασμάτων (Data-Driven Insights).
 
-## What it contains
-- Notebook-based analysis for customer and tour behavior
-- Supporting Python exports generated from notebook cells
-- Greek-language appendix with methodology notes
+---
 
-## Privacy cleanup
-- Confidential CSV data files were removed from this portfolio copy.
-- Test artifacts and temporary validation files were removed as well.
-- The notebooks remain as code/documentation references and may need project data to be rerun.
-- The original data folder is intentionally absent from this portfolio copy.
+## Βασικά Ερευνητικά Ερωτήματα (Core Research Questions)
 
-## Main files
-- `clio.ipynb`
-- `clio journey.ipynb`
-- `_clio_cells.py`
-- `_clio2_cells.py`
-- `_appendix_b_greek.md`
+Η ανάλυση απαντά σε τρία κεντρικά ερωτήματα συμπεριφοράς, καθώς και σε μία προχωρημένη διερεύνηση συσχετίσεων:
+
+| Ερώτημα | Στόχος Ανάλυσης | Βασικοί Δείκτες & Μεθοδολογία |
+| :--- | :--- | :--- |
+| **Q1. Consumption Depth** | Πόσο βαθιά καταναλώνουν οι χρήστες το περιεχόμενο ενός tour (Ολοκλήρωση vs. Εγκατάλειψη); | Υπολογισμός ποσοστών ολοκλήρωσης (reach-end rate) ανά 30λεπτο journey και ανά χρήστη. Η ολοκλήρωση ορίζεται ως ακρόαση >= 80% του τελευταίου canonical story. |
+| **Q2. Engagement Mode** | Είναι η ακρόαση ενεργητική (Active) ή παθητική (Passive); | Κατηγοριοποίηση των journeys σε **Active Listening** (>= 2 strong controls ή >= 0.2 controls/story) και **Passive Play**. |
+| **Q3. Navigation Order** | Ακολουθούν οι χρήστες τη φυσική σειρά των stories ή κάνουν "Jumping"; | Σύγκριση μονοτονικής αλληλουχίας. Ανάλυση **Strict** (Android + `story_start`) και **Cross-Platform Proxy** (Android + iOS). |
+| **Bonus. Knowledge Mining** | Ποια μοτίβα αλληλεπίδρασης εμφανίζονται κατά τη διάρκεια του journey; | Εξόρυξη Κανόνων Συσχέτισης (Association Rules: Support, Confidence, Lift) στα events αλληλεπίδρασης. |
+
+---
+
+## Μεθοδολογία & Βασικές Παραδοχές
+
+*   **Sessionization (`journey_idx`):** Ένα ξεχωριστό "Tour Journey" ορίζεται από το μοναδικό κλειδί `user_key + tour_id + journey_idx`. Νέο journey ξεκινάει αυτόματα όταν εντοπιστεί χρονικό κενό αδράνειας άνω των **30 λεπτών** ανάμεσα σε δύο διαδοχικά events του ίδιου χρήστη.
+*   **Active vs. Passive Listening:** Τα "Strong Control Events" περιλαμβάνουν ενέργειες όπως: `forward_10`, `backward_10`, `next_story`, `previous_story`, `click_progress_bar`. Αν το journey εμφανίζει επαναλαμβανόμενη, συνειδητή αλληλεπίδραση, ταξινομείται ως *Active*.
+*   **Cross-Platform Instrumentation:** Λόγω ασυνεπούς καταγραφής του event `story_start` στο iOS, η ανάλυση αλληλουχίας (Q3) υλοποιείται σε δύο επίπεδα:
+    1.  *Strict Sequence:* Αποκλειστικά για συσκευές Android.
+    2.  *Proxy Sequence:* Συνδυασμός Android & iOS μέσω story-level interaction events που φέρουν έγκυρο `story_id`.
+
+---
+
+## Τεχνολογίες & Εργαλεία
+
+*   **Γλώσσα:** `Python 3`
+*   **Ανάλυση & Επεξεργασία Δεδομένων:** `Pandas`, `NumPy`
+*   **Οπτικοποίηση Δεδομένων:** `Matplotlib`, `Seaborn`
+*   **Περιβάλλον:** `Jupyter Notebook`
+
+---
+
+## Δομή Αποθετηρίου
+
+```text
+├── Clio_App_User_Journey_Analysis.ipynb  # Το κεντρικό και πλήρως αυτόνομο Notebook της ανάλυσης
+├── README.md                             # Τεκμηρίωση του project
+└── .gitignore                            # Αποκλεισμός αρχείων δεδομένων και περιβάλλοντος
+---
+
+## Ασφάλεια & Ιδιωτικότητα Δεδομένων (Privacy Notice)
+Αποκλεισμός Raw Data: Όλα τα πρωτογενή αρχεία καταγραφής (events_data_*.csv, users_data_*.csv) έχουν αποκλειστεί μέσω .gitignore για την προστασία ευαίσθητων και εταιρικών δεδομένων.
+
+Ψευδωνυμοποίηση: Η ανάλυση βασίζεται σε ψευδωνυμοποιημένα αναγνωριστικά (user_key, user_pseudo_id), διασφαλίζοντας την ανωνυμία των χρηστών της εφαρμογής.
+
+Αναπαραγωγιμότητα: Το Notebook αποτελεί πλήρη αναφορά του κώδικα και της μεθοδολογίας, ωστόσο η εκτέλεσή του από την αρχή απαιτεί τα τοπικά αρχεία δεδομένων που παρέχονται υπό ακαδημαϊκή άδεια.

@@ -7,7 +7,7 @@ from azure.eventhub import EventHubProducerClient, EventData
 # =========================
 # --- STUDENT CONFIG ---
 # =========================
-HOST_NAME = "atm-stream-ns-charisnt2.servicebus.windows.net"
+HOST_NAME = "PLACEHOLDER"
 SHARED_ACCESS_KEY_NAME = "sender-policy"
 SHARED_ACCESS_KEY = "PLACEHOLDER"
 EVENT_HUB_NAME = "atm-transactions"
