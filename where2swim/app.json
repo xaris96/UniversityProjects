@@ -1,0 +1,50 @@
+{
+  "expo": {
+    "name": "Where2Swim",
+    "slug": "where2swim",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.xaris96.where2swim",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Το Where2Swim χρησιμοποιεί την τοποθεσία σου για να υπολογίσει την απόσταση και τον χρόνο διαδρομής μέχρι κάθε παραλία."
+      }
+    },
+    "android": {
+      "package": "com.xaris96.where2swim",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION",
+        "android.permission.ACCESS_FINE_LOCATION"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Το Where2Swim χρησιμοποιεί την τοποθεσία σου για να υπολογίσει την απόσταση μέχρι κάθε παραλία."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "28b1f11b-1d75-4bf6-ae68-4ae3fceedbe0"
+      }
+    },
+    "owner": "xaris96"
+  }
+}

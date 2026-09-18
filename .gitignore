@@ -31,6 +31,11 @@
 *.tsv
 *.json
 
+# Το where2swim είναι εφαρμογή Node/Expo — τα δικά της .json
+# (package.json, app.json, eas.json, tsconfig.json, κ.λπ.) είναι
+# κώδικας/config, όχι raw data, οπότε πρέπει να παρακολουθούνται.
+!where2swim/**/*.json
+
 # Αγνοούμε τον συγκεκριμένο φάκελο με τα δεδομένα του project
 clio/
 
