@@ -2,6 +2,9 @@ import { useCallback, useEffect, useState } from 'react';
 import { supabase } from '../lib/supabase';
 import { ensureAnonymousUser } from '../lib/auth';
 import { Beach, Coast, Prefecture } from '../types/beach';
+import { transliterateForDisplay } from '../utils/transliteration';
+
+const HAS_GREEK = /[Ͱ-Ͽἀ-῿]/;
 
 interface CommunityBeachRow {
   id: string;
@@ -14,10 +17,16 @@ interface CommunityBeachRow {
 }
 
 function rowToBeach(row: CommunityBeachRow): Beach {
+  // Submitters only enter one name; Greek input (the common case, since
+  // search/pin results for Crete come back in Greek) gets a Greeklish
+  // nameEn generated the same way the seed dataset's does. Latin-only
+  // input has no reliable reverse transliteration, so it's kept as-is
+  // for both, matching how untranslated seed entries used to render.
+  const nameEn = HAS_GREEK.test(row.name) ? transliterateForDisplay(row.name) : row.name;
   return {
     id: `community-${row.id}`,
     nameEl: row.name,
-    nameEn: row.name,
+    nameEn,
     prefecture: row.prefecture,
     coast: row.coast,
     latitude: row.latitude,

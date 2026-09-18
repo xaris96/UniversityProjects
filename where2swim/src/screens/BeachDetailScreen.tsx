@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import { Alert, Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import MapView, { Marker } from 'react-native-maps';
 import { Ionicons } from '@expo/vector-icons';
 import { Beach } from '../types/beach';
@@ -43,7 +44,8 @@ export function BeachDetailScreen({
 
   return (
     <Modal visible={!!beach} animationType="slide" onRequestClose={onClose}>
-      <View style={styles.container}>
+      <SafeAreaProvider>
+      <SafeAreaView style={styles.container}>
         <View style={styles.headerRow}>
           <Text style={styles.title} numberOfLines={2}>
             {name}
@@ -152,7 +154,8 @@ export function BeachDetailScreen({
             </Pressable>
           </View>
         </ScrollView>
-      </View>
+      </SafeAreaView>
+      </SafeAreaProvider>
     </Modal>
   );
 }
@@ -161,7 +164,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#eef7fb',
-    paddingTop: 56,
+    paddingTop: 16,
   },
   headerRow: {
     flexDirection: 'row',

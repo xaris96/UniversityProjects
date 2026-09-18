@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { Pressable, SafeAreaView, StyleSheet, Text, View } from 'react-native';
+import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { BeachListScreen } from './src/screens/BeachListScreen';
 import { MapScreen } from './src/screens/MapScreen';
 import { AddBeachScreen } from './src/screens/AddBeachScreen';
@@ -59,13 +60,15 @@ function AppContent() {
 
 export default function App() {
   return (
-    <LocaleProvider>
-      <FavoritesProvider>
-        <CommunityBeachesProvider>
-          <AppContent />
-        </CommunityBeachesProvider>
-      </FavoritesProvider>
-    </LocaleProvider>
+    <SafeAreaProvider>
+      <LocaleProvider>
+        <FavoritesProvider>
+          <CommunityBeachesProvider>
+            <AppContent />
+          </CommunityBeachesProvider>
+        </FavoritesProvider>
+      </LocaleProvider>
+    </SafeAreaProvider>
   );
 }
 

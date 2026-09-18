@@ -12,6 +12,7 @@ import {
   TextInput,
   View,
 } from 'react-native';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import MapView, { Marker, MapPressEvent } from 'react-native-maps';
 import { Ionicons } from '@expo/vector-icons';
 import { useLocale } from '../i18n/LocaleContext';
@@ -234,6 +235,8 @@ export function AddBeachScreen({ visible, onClose }: { visible: boolean; onClose
 
   return (
     <Modal visible={visible} animationType="slide" onRequestClose={handleClose}>
+      <SafeAreaProvider>
+      <SafeAreaView style={styles.flex}>
       <KeyboardAvoidingView style={styles.flex} behavior={Platform.OS === 'ios' ? 'padding' : undefined}>
         <ScrollView contentContainerStyle={styles.container} keyboardShouldPersistTaps="handled">
           <View style={styles.headerRow}>
@@ -371,6 +374,8 @@ export function AddBeachScreen({ visible, onClose }: { visible: boolean; onClose
           )}
         </ScrollView>
       </KeyboardAvoidingView>
+      </SafeAreaView>
+      </SafeAreaProvider>
     </Modal>
   );
 }
@@ -381,7 +386,7 @@ const styles = StyleSheet.create({
   },
   container: {
     padding: 20,
-    paddingTop: 60,
+    paddingTop: 20,
     backgroundColor: '#eef7fb',
     flexGrow: 1,
   },
