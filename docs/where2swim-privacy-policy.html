@@ -22,8 +22,8 @@
 
 <h2>Ποια δεδομένα συλλέγουμε</h2>
 <ul>
-  <li><strong>Τοποθεσία συσκευής (GPS):</strong> χρησιμοποιείται μόνο για να υπολογίσουμε την απόσταση και τον χρόνο διαδρομής μέχρι κάθε παραλία, και μόνο όσο η εφαρμογή είναι ανοιχτή. Δεν αποθηκεύουμε την τοποθεσία σας στους διακομιστές μας.</li>
-  <li><strong>Ανώνυμο αναγνωριστικό συσκευής:</strong> όταν προσθέτετε μια νέα παραλία, δημιουργείται αυτόματα ένα ανώνυμο αναγνωριστικό ώστε να βλέπετε τις δικές σας εκκρεμείς υποβολές. Δεν απαιτείται εγγραφή, όνομα, email ή κωδικός πρόσβασης.</li>
+  <li><strong>Τοποθεσία συσκευής (GPS):</strong> χρησιμοποιείται μόνο για να υπολογίσουμε την απόσταση και τον χρόνο διαδρομής μέχρι κάθε παραλία, και μόνο όσο η εφαρμογή είναι ανοιχτή. Για τον υπολογισμό του χρόνου διαδρομής, η τοποθεσία σας στέλνεται (χωρίς όνομα ή άλλο αναγνωριστικό) στην υπηρεσία δρομολόγησης OSRM, που βασίζεται στο OpenStreetMap. Εμείς δεν την αποθηκεύουμε σε δικούς μας διακομιστές.</li>
+  <li><strong>Ανώνυμο αναγνωριστικό συσκευής:</strong> κατά το άνοιγμα της εφαρμογής δημιουργείται αυτόματα ένα ανώνυμο αναγνωριστικό, ώστε να φορτώνονται οι παραλίες της κοινότητας και να βλέπετε τις δικές σας εκκρεμείς υποβολές. Δεν απαιτείται εγγραφή, όνομα, email ή κωδικός πρόσβασης.</li>
   <li><strong>Στοιχεία παραλιών που υποβάλλετε:</strong> όνομα και τοποθεσία της παραλίας που προτείνετε, ώστε να εμπλουτίζεται η λίστα παραλιών μετά από έγκριση.</li>
 </ul>
 
@@ -32,7 +32,9 @@
 <ul>
   <li><strong>Supabase</strong> — αποθήκευση των παραλιών που υποβάλλουν οι χρήστες.</li>
   <li><strong>Google Maps</strong> — εμφάνιση χάρτη.</li>
-  <li><strong>Open-Meteo, OpenStreetMap</strong> — δεδομένα καιρού και αναζήτηση τοποθεσιών (μόνο συντεταγμένες, όχι προσωπικά στοιχεία).</li>
+  <li><strong>Open-Meteo</strong> — δεδομένα καιρού (μόνο οι συντεταγμένες των παραλιών, όχι δικές σας).</li>
+  <li><strong>OSRM (OpenStreetMap)</strong> — υπολογισμός χρόνου και απόστασης διαδρομής, λαμβάνει την τοποθεσία σας όπως περιγράφεται παραπάνω.</li>
+  <li><strong>Photon (Komoot), Overpass (OpenStreetMap)</strong> — αναζήτηση τοποθεσιών όταν προτείνετε νέα παραλία (λαμβάνουν το κείμενο αναζήτησης ή τις συντεταγμένες που επιλέγετε).</li>
 </ul>
 <p>Δεν πουλάμε δεδομένα σε τρίτους, δεν εμφανίζουμε διαφημίσεις, και δεν παρακολουθούμε τη δραστηριότητά σας σε άλλες εφαρμογές ή ιστότοπους.</p>
 
@@ -54,8 +56,8 @@
 
 <h2>What data we collect</h2>
 <ul>
-  <li><strong>Device location (GPS):</strong> used only to calculate distance and travel time to each beach, only while the app is open. We do not store your location on our servers.</li>
-  <li><strong>Anonymous device identifier:</strong> when you submit a new beach, an anonymous identifier is created automatically so you can see your own pending submissions. No sign-up, name, email, or password is required.</li>
+  <li><strong>Device location (GPS):</strong> used only to calculate distance and travel time to each beach, only while the app is open. To calculate travel time, your location is sent (without a name or any other identifier) to the OSRM routing service, which is based on OpenStreetMap. We do not store it on servers of our own.</li>
+  <li><strong>Anonymous device identifier:</strong> when the app opens, an anonymous identifier is created automatically so community beaches can load and you can see your own pending submissions. No sign-up, name, email, or password is required.</li>
   <li><strong>Beach submissions:</strong> the name and location of any beach you submit, so the beach list can grow once approved.</li>
 </ul>
 
@@ -64,7 +66,9 @@
 <ul>
   <li><strong>Supabase</strong> — stores user-submitted beaches.</li>
   <li><strong>Google Maps</strong> — displays the map.</li>
-  <li><strong>Open-Meteo, OpenStreetMap</strong> — weather data and location search (coordinates only, no personal data).</li>
+  <li><strong>Open-Meteo</strong> — weather data (beach coordinates only, not yours).</li>
+  <li><strong>OSRM (OpenStreetMap)</strong> — travel time and distance, receives your location as described above.</li>
+  <li><strong>Photon (Komoot), Overpass (OpenStreetMap)</strong> — place search when you suggest a new beach (they receive the search text or coordinates you choose).</li>
 </ul>
 <p>We do not sell data to third parties, we do not show ads, and we do not track your activity across other apps or websites.</p>
 
